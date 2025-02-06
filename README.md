@@ -1,2 +1,1 @@
-# zalupa
-Zalupa Bot
+# i will write that later
